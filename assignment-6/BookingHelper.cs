@@ -2,9 +2,7 @@
 
 namespace App_v5
 {
-    // ============================================================
-    // BOOKING HELPER (preserved from previous parts)
-    // ============================================================
+  
 
     public static class BookingHelper
     {
