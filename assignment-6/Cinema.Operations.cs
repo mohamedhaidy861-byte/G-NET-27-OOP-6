@@ -2,13 +2,7 @@
 
 namespace App_v5
 {
-    // ============================================================
-    // CINEMA — PARTIAL FILE 1: Ticket Operations & Projector
-    // ============================================================
-    // This file handles: projector control, adding tickets, booking.
-    // The Cinema class is split across TWO files using 'partial'.
-    // Both files compile into a SINGLE Cinema class.
-    // ============================================================
+ 
 
     public partial class Cinema
     {
